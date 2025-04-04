@@ -1,0 +1,1 @@
+refer: https://github.com/Kotlin/kotlinx.serialization/issues/2970
